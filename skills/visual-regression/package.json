@@ -1,0 +1,15 @@
+{
+  "name": "visual-regression",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Screenshot capture and pixel diff without Playwright",
+  "scripts": {
+    "compare": "node scripts/compare.js",
+    "run": "node scripts/run.js"
+  },
+  "dependencies": {
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0"
+  }
+}
