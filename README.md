@@ -62,9 +62,9 @@ node scripts/run.js --url demo/index-changed.html --name demo --width 960 --heig
 
 ## 发布状态
 
-- 仓库名 `design-skills-pack`、可见性 public、自建技能许可 MIT：已确认。
-- 本地已完成首次提交；**远程仓库尚未创建、内容尚未推送**。
-- 推送需在发布者本机完成 GitHub 认证（`gh auth login`，或配置 SSH key 后使用 SSH 地址）。本仓库不读取、不保存任何凭据。
+- 仓库：https://github.com/czm668/design-skills-pack（public，默认分支 `main`）
+- 自建技能许可 MIT，第三方技能保留各自上游许可（见 [THIRD_PARTY.md](THIRD_PARTY.md)）
+- 获取：`git clone https://github.com/czm668/design-skills-pack.git`，或直接下载 ZIP；按上文"怎么用"把需要的技能目录复制进自己的 skills 目录
 
 ## 目录结构
 
