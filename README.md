@@ -66,6 +66,12 @@ node scripts/run.js --url demo/index-changed.html --name demo --width 960 --heig
 - 自建技能许可 MIT，第三方技能保留各自上游许可（见 [THIRD_PARTY.md](THIRD_PARTY.md)）
 - 获取：`git clone https://github.com/czm668/design-skills-pack.git`，或直接下载 ZIP；按上文"怎么用"把需要的技能目录复制进自己的 skills 目录
 
+## 维护与反馈
+
+- 维护者：[@czm668](https://github.com/czm668)
+- 问题与建议：https://github.com/czm668/design-skills-pack/issues
+- 第三方技能的问题请优先反馈给上游项目（上游地址见 [THIRD_PARTY.md](THIRD_PARTY.md)）
+
 ## 目录结构
 
 ```
